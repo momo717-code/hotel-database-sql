@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29660617/README.md)
 # 🏨 The Crowned Duck Inn — Relational Database (MySQL)
 
 A third-normal-form **MySQL** database for a small independent hotel and public house — modelling rooms, bookings, guests, staff, pub orders, menu, and stock, with full referential integrity.
